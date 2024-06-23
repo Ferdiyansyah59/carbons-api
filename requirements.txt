@@ -11,7 +11,7 @@ itsdangerous
 Jinja2
 joblib
 MarkupSafe
-numpy
+numpy==1.26.4
 packaging
 python-dateutil
 pytz
